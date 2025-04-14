@@ -1,0 +1,31 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Compiled output
+/dist
+/build
+
+# Tests
+/coverage
+/.nyc_output
+/test
+
+# IDE
+/.idea
+/.vscode
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore 
